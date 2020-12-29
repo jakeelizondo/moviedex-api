@@ -50,5 +50,5 @@ app.get('/movie', (req, res) => {
 });
 
 app.listen(8000, () => {
-  console.log('eyyy jaime your server is up on 8000');
+  console.log('Server is up on port 8000');
 });
